@@ -6,6 +6,7 @@ All things engineering: processes, best practices, setup guides, and more!
 
 ---
 
+[Getting Started](wiki-info/GettingStarted.md)  
 
 ## Testing
 
